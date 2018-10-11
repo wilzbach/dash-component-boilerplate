@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import my_dash_component
 import dash
 from dash.dependencies import Input, Output
